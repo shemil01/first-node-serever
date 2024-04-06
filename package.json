@@ -1,0 +1,19 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sample.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "first-node-server"
+  },
+  "author": "shemil",
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "^2.0.4",
+    "upper-case": "^3.0.0"
+  }
+}
